@@ -1,6 +1,6 @@
 # Ghalyatama Ikram Fauzi
 
-Mahasiswa Ilmu Komputer
+Mahasiswa Ilmu Komputer IPB
 
 *Jl Soekarno-hatta 60 Bandar Lampung 35141\
 +62822-8151-9058\
