@@ -2,9 +2,10 @@
 
 Mahasiswa Ilmu Komputer
 
-*Jl Soekarno-hatta 60 Bandar Lampung 35141
-+62822-8151-9058
+*Jl Soekarno-hatta 60 Bandar Lampung 35141\
++62822-8151-9058\
 ghalyatama@gmail.com*
+
 
 ## Pendidikan
 
